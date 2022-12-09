@@ -1,0 +1,38 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Zen+Dots&display=swap'); 
+
+body {
+          background-image: url('https://media.istockphoto.com/id/1167028873/pt/foto/soccer-ball-on-black-background.jpg?s=170667a&w=0&k=20&c=uvNmw8DxZ-2pY_Rj0UggewH7ae6ywMV3atM4i8qK7TQ=');
+          background-repeat: no-repeat;
+          background-attachment: fixed;
+          background-size: 100% 100%;
+}
+td {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+h3{
+    font-family: 'Roboto Mono', monospace;
+}
+
+h1{
+    font-family: 'Press Start 2P', cursive;
+}
+a {
+    font-family: 'Open Sans', sans-serif;
+}
+p {
+    font-family: 'Zen Dots', cursive;
+    font-size: 20px;
+}
+h3 {
+    font-family: 'Zen Dots', cursive;
+    font-size: 30px;
+}
+h4 {
+    font-family: 'Zen Dots', cursive;
+    font-size: 30px;
+}
